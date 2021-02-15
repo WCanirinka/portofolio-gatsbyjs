@@ -1,3 +1,4 @@
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/wcanirinka/portofolio-gatsbyjs/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=WCanirinka%2Fportofolio-gatsbyjs&benchmark=INFRASTRUCTURE+SECURITY)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc215961-1226-4eb0-81af-f3866153077a/deploy-status)](https://app.netlify.com/sites/portfoliowc/deploys)
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
